@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: serif;
+    background-color: #000
+}
+
+#nav-bar {
+    position: sticky;
+    top: 0;
+    index: 10;
+}
+
+
+.main-title {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+
+.description {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 100px;
+}
+
+.movies {
+    width: 80%;
+    margin-top: 70px;
+    margin-left: 100px;
+}
